@@ -117,7 +117,6 @@ namespace Simple_Console_Snake
                 snake.Input();
                 snake.Logic();
             }    
-            Console.ReadKey();
         }
     }
 }
