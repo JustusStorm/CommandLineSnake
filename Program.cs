@@ -5,8 +5,8 @@ namespace Simple_Console_Snake
 {
     class Snake
     {
-        int Height = 20;
-        int Width = 30;
+        int Height = 30;
+        int Width = 100;
 
         int[] X = new int[50];
         int[] Y = new int[50];
